@@ -27,7 +27,7 @@
     },
     {
       "id":"persilmix",
-      "name":"Ail et Persil",
+      "name":"Persilmix",
       "picture":"https://ik.imagekit.io/lddm/persilmix.jpg?updatedAt=1756204709441"
     },
     {
@@ -133,7 +133,760 @@
   ],
   "products": [
     {
-
+      "id":"lv1",
+      "group":"la_verte",
+      "name":"La Verte",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 10000
+    },
+    {
+      "id":"lv2",
+      "group":"la_verte",
+      "name":"La Verte",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 5000
+    },
+    {
+      "id":"lv3",
+      "group":"la_verte",
+      "name":"La Verte",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2000
+    },
+    {
+      "id":"lv4",
+      "group":"la_verte",
+      "name":"La Verte",
+      "variant":"mini",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"ail1",
+      "group":"ail",
+      "name":"Ail",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 12000
+    },
+    {
+      "id":"ail2",
+      "group":"ail",
+      "name":"Ail",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 6000
+    },
+    {
+      "id":"ail3",
+      "group":"ail",
+      "name":"Ail",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2000
+    },
+    {
+      "id":"ail4",
+      "group":"ail",
+      "name":"Ail",
+      "variant":"mini",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"emballeuse1",
+      "group":"l_emballeuse",
+      "name":"L'Emballeuse",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 10000
+    },
+    {
+      "id":"emballeuse2",
+      "group":"l_emballeuse",
+      "name":"L'Emballeuse",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 5000
+    },
+    {
+      "id":"emballeuse3",
+      "group":"l_emballeuse",
+      "name":"L'Emballeuse",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2000
+    },
+    {
+      "id":"emballeuse4",
+      "group":"l_emballeuse",
+      "name":"L'Emballeuse",
+      "variant":"mini",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"crevettes1",
+      "group":"crevettes_moulues",
+      "name":"Crevettes Moulues",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 10000
+    },
+    {
+      "id":"crevettes2",
+      "group":"crevettes_moulues",
+      "name":"Crevettes Moulues",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 5000
+    },
+    {
+      "id":"crevettes3",
+      "group":"crevettes_moulues",
+      "name":"Crevettes Moulues",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2000
+    },
+    {
+      "id":"crevettes4",
+      "group":"crevettes_moulues",
+      "name":"Crevettes Moulues",
+      "variant":"mini",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"rondelle1",
+      "group":"rondelle",
+      "name":"Rondelle",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 12000
+    },
+    {
+      "id":"rondelle2",
+      "group":"rondelle",
+      "name":"Rondelle",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 6000
+    },
+    {
+      "id":"rondelle3",
+      "group":"rondelle",
+      "name":"Rondelle",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2000
+    },
+    {
+      "id":"persilmix1",
+      "group":"persilmix",
+      "name":"Persilmix",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 12000
+    },
+    {
+      "id":"persilmix2",
+      "group":"persilmix",
+      "name":"Persilmix",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 6000
+    },
+    {
+      "id":"persilmix3",
+      "group":"persilmix",
+      "name":"Persilmix",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2000
+    },
+    {
+      "id":"persilmix4",
+      "group":"persilmix",
+      "name":"Persilmix",
+      "variant":"mini",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"clou_de_girofle1",
+      "group":"clou_de_girofle",
+      "name":"Clou de Girofle",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 10000
+    },
+    {
+      "id":"clou_de_girofle2",
+      "group":"clou_de_girofle",
+      "name":"Clou de Girofle",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 5000
+    },
+    {
+      "id":"clou_de_girofle3",
+      "group":"clou_de_girofle",
+      "name":"Clou de Girofle",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"poivre_noir1",
+      "group":"poivre_noir",
+      "name":"Poivre noir",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 10000
+    },
+    {
+      "id":"poivre_noir2",
+      "group":"poivre_noir",
+      "name":"Poivre noir",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 5000
+    },
+    {
+      "id":"poivre_noir3",
+      "group":"poivre_noir",
+      "name":"Poivre noir",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2000
+    },
+    {
+      "id":"poivre_noir4",
+      "group":"poivre_noir",
+      "name":"Poivre noir",
+      "variant":"mini",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"poivre_blanc1",
+      "group":"poivre_blanc",
+      "name":"Poivre blanc",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 12000
+    },
+    {
+      "id":"poivre_blanc2",
+      "group":"poivre_blanc",
+      "name":"Poivre blanc",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 6000
+    },
+    {
+      "id":"poivre_blanc3",
+      "group":"poivre_blanc",
+      "name":"Poivre blanc",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2000
+    },
+    {
+      "id":"poivre_blanc4",
+      "group":"poivre_blanc",
+      "name":"Poivre blanc",
+      "variant":"mini",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"cannelle1",
+      "group":"cannelle",
+      "name":"Cannelle",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 12000
+    },
+    {
+      "id":"cannelle2",
+      "group":"cannelle",
+      "name":"Cannelle",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 6000
+    },
+    {
+      "id":"cannelle3",
+      "group":"cannelle",
+      "name":"Cannelle",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"poisson_fume1",
+      "group":"poisson_fume",
+      "name":"Poisson Fume",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 10000
+    },
+    {
+      "id":"poisson_fume2",
+      "group":"poisson_fume",
+      "name":"Poisson Fume",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 5000
+    },
+    {
+      "id":"poisson_fume3",
+      "group":"poisson_fume",
+      "name":"Poisson Fume",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2000
+    },
+    {
+      "id":"poisson_fume4",
+      "group":"poisson_fume",
+      "name":"Poisson Fume",
+      "variant":"mini",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"exotique1",
+      "group":"exotique",
+      "name":"L'Exotique",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 8000
+    },
+    {
+      "id":"exotique2",
+      "group":"exotique",
+      "name":"L'Exotique",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 4000
+    },
+    {
+      "id":"exotique3",
+      "group":"exotique",
+      "name":"L'Exotique",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2000
+    },
+    {
+      "id":"exotique4",
+      "group":"exotique",
+      "name":"L'Exotique",
+      "variant":"mini",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"atadi_fionfion1",
+      "group":"atadi_fionfion",
+      "name":"Atadi Fionfion",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 6000
+    },
+    {
+      "id":"atadi_fionfion2",
+      "group":"atadi_fionfion",
+      "name":"Atadi Fionfion",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 3000
+    },
+    {
+      "id":"atadi_delices1",
+      "group":"atadi_delices",
+      "name":"Atadi Delices",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 6000
+    },
+    {
+      "id":"atadi_delices2",
+      "group":"atadi_delices",
+      "name":"Atadi Delices",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 3000
+    },
+    {
+      "id":"atadi_delices3",
+      "group":"atadi_delices",
+      "name":"Atadi Delices",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1500
+    },
+    {
+      "id":"gbolan_blend1",
+      "group":"gbolan_blend",
+      "name":"Gbolan Blend",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 6000
+    },
+    {
+      "id":"gbolan_blend2",
+      "group":"gbolan_blend",
+      "name":"Gbolan Blend",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 3000
+    },
+    {
+      "id":"gbolan_blend3",
+      "group":"gbolan_blend",
+      "name":"Gbolan Blend",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"la_totale1",
+      "group":"la_totale",
+      "name":"La Totale",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 5000
+    },
+    {
+      "id":"la_totale2",
+      "group":"la_totale",
+      "name":"La Totale",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2500
+    },
+    {
+      "id":"la_totale3",
+      "group":"la_totale",
+      "name":"La Totale",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"koklo_blend1",
+      "group":"koklo_blend",
+      "name":"Koklo Blend",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 5000
+    },
+    {
+      "id":"koklo_blend2",
+      "group":"koklo_blend",
+      "name":"Koklo Blend",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2500
+    },
+    {
+      "id":"koklo_blend3",
+      "group":"koklo_blend",
+      "name":"Koklo Blend",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"gbolan_blend1",
+      "group":"gbolan_blend",
+      "name":"Gbolan Blend",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 5000
+    },
+    {
+      "id":"gbolan_blend2",
+      "group":"gbolan_blend",
+      "name":"Gbolan Blend",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2500
+    },
+    {
+      "id":"gbolan_blend3",
+      "group":"gbolan_blend",
+      "name":"Gbolan Blend",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"l_exquise1",
+      "group":"l_exquise",
+      "name":"L'Exquise",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 5000
+    },
+    {
+      "id":"l_exquise2",
+      "group":"l_exquise",
+      "name":"L'Exquise",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2500
+    },
+    {
+      "id":"l_exquise3",
+      "group":"l_exquise",
+      "name":"L'Exquise",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"piment_de_table1",
+      "group":"piment_de_table",
+      "name":"Piment de table",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 5000
+    },
+    {
+      "id":"piment_de_table2",
+      "group":"piment_de_table",
+      "name":"Piment de table",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2500
+    },
+    {
+      "id":"piment_de_table3",
+      "group":"piment_de_table",
+      "name":"Piment de table",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"dote1",
+      "group":"dote",
+      "name":"Dote",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 6000
+    },
+    {
+      "id":"dote2",
+      "group":"dote",
+      "name":"Dote",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 3000
+    },
+    {
+      "id":"dote3",
+      "group":"dote",
+      "name":"Dote",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1500
+    },
+    {
+      "id":"dotemix1",
+      "group":"dotemix",
+      "name":"Dotemix",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 6000
+    },
+    {
+      "id":"dotemix2",
+      "group":"dotemix",
+      "name":"Dotemix",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 3000
+    },
+    {
+      "id":"dotemix3",
+      "group":"dotemix",
+      "name":"Dotemix",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1500
+    },
+    {
+      "id":"piment_brochette1",
+      "group":"piment_brochette",
+      "name":"Piment de brochettes",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 4000
+    },
+    {
+      "id":"piment_brochette2",
+      "group":"piment_brochette",
+      "name":"Piment de brochettes",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 2000
+    },
+    {
+      "id":"piment_brochette3",
+      "group":"piment_brochette",
+      "name":"Piment de brochettes",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"curcuma1",
+      "group":"curcuma",
+      "name":"Curcuma",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 6000
+    },
+    {
+      "id":"curcuma2",
+      "group":"curcuma",
+      "name":"Curcuma",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 3000
+    },
+    {
+      "id":"curcuma3",
+      "group":"curcuma",
+      "name":"Curcuma",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"l_africaine1",
+      "group":"l_africaine",
+      "name":"L'Africaine",
+      "variant":"grand",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 6000
+    },
+    {
+      "id":"l_africaine2",
+      "group":"l_africaine",
+      "name":"L'Africaine",
+      "variant":"moyen",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 3000
+    },
+    {
+      "id":"l_africaine3",
+      "group":"l_africaine",
+      "name":"L'Africaine",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
+    },
+    {
+      "id":"ayikou1",
+      "group":"ayikou",
+      "name":"Ayikou",
+      "variant":"classique",
+      "picture":"https://picsum.photos/200/300",
+      "in_stock":0,
+      "base_price": 1000
     }
   ]
 }
