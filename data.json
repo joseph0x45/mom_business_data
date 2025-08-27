@@ -664,27 +664,27 @@
       "base_price": 1000
     },
     {
-      "id":"gbolan_blend1",
-      "group":"gbolan_blend",
-      "name":"Gbolan Blend",
+      "id":"gnilan_blend1",
+      "group":"gnilan_blend",
+      "name":"Gnilan Blend",
       "variant":"grand",
       "picture":"https://picsum.photos/200/300",
       "in_stock":0,
       "base_price": 5000
     },
     {
-      "id":"gbolan_blend2",
-      "group":"gbolan_blend",
-      "name":"Gbolan Blend",
+      "id":"gnilan_blend2",
+      "group":"gnilan_blend",
+      "name":"Gnilan Blend",
       "variant":"moyen",
       "picture":"https://picsum.photos/200/300",
       "in_stock":0,
       "base_price": 2500
     },
     {
-      "id":"gbolan_blend3",
-      "group":"gbolan_blend",
-      "name":"Gbolan Blend",
+      "id":"gnilan_blend3",
+      "group":"gnilan_blend",
+      "name":"Gnilan Blend",
       "variant":"classique",
       "picture":"https://picsum.photos/200/300",
       "in_stock":0,
