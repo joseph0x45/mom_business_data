@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "id": "la_verte",
+      "name":"La Verte",
+      "picture": "https://ik.imagekit.io/lddm/la_verte2.jpg?updatedAt=1756204812699"
+    },
+    {
+      "id":"ail",
+      "name":"Ail",
+      "picture":"https://ik.imagekit.io/lddm/ail.jpg?updatedAt=1756204709015"
+    },
+    {
+      "id":"l_emballeuse",
+      "name":"L'Emballeuse",
+      "picture":""
+    },
+    {
+      "id":"crevettes_moulues",
+      "name":"Crevettes Moulues",
+      "picture":""
+    },
+    {
+      "id":"",
+      "name":"",
+      "picture":""
+    },
+    {
+      "id":"",
+      "name":"",
+      "picture":""
+    },
+    {
+      "id":"",
+      "name":"",
+      "picture":""
+    }
+  ],
+  "products": [
+    {
+
+    }
+  ]
+}
+
